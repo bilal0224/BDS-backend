@@ -1,15 +1,18 @@
 # BDS
 
-SPROJ
+deployed:
 
-deployed at
-bds-backend-production.up.railway.app/api
+https://bds-backend-production.up.railway.app/
+
+locally:
+npm i 
+npm start
 
 .env varibales
 
 JWT_SECRET=jrxjuwwpiypsEE
 DB_URI=mongodb+srv://admin:admin@cluster0.ivysjyk.mongodb.net/test?retryWrites=true&w=majority
 
-for db i used mongoatlas:
-created bds project and named db test
+Note:
+DB is in bds project named test
 
